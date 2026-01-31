@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>welcome to my app</Text>
+      <Text>welcome to my react-native app</Text>
     </View>
   );
 }
